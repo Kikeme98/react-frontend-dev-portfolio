@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "I'm Luis Enrique Méndez, developer focused on web and mobile technologies. I'm a self-taught programmer, I'm passionate about learning new technologies and I'm always trying to improve my skills. I'm currently working in Uzon Energy S.A.P.I. in the city of Salvatierra, Guanajuato, but I'm looking for a job as a full-time developer.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,38 +11,38 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Hackathon Project: Farmers DB",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "Android application that helps farmers know what kind of crops can be grown on their farms. Top 10 projects on INTEC Hackathon 2019.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "https://cdnnmundo1.img.sputniknews.com/img/07e5/07/14/1114307303_512:0:2560:2048_1920x0_80_0_0_947d0b809fa057bd5a78d754c8a99e70.jpg",
+          "images/portfolio/hackathon/mypic.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/Kikeme98/Hackathon",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-google-plain",
+            "name": "Firebase"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-android-plain",
+            "name": "Android"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-java-plain",
+            "name": "Java"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "React Course Platzi",
+        "startDate": "2021",
+        "description": "Personal project to learn React.js and its ecosystem and the hooks",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "https://i.imgur.com/GxQvg3T.png",
+          "https://i.imgur.com/25mipO4.png"
         ],
-        "url": "https://github.com",
+        "url": "https://kikemendez.xyz/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,63 +55,97 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Uzon Energy Admin Portal",
+        "startDate": "2019",
+        "description": "Internship project to develop an admin portal for Uzon Energy S.A.P.I. in the city of Salvatierra, Guanajuato. this web application is used by CFE to manage lamp posts on the city of Salvatierra.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "https://i.imgur.com/dplrQOp.png",
+          "https://i.imgur.com/q00V5QP.png",
+          "https://i.imgur.com/7cde1u9.png"
         ],
-        "url": "https://github.com",
+        "url": "https://uzonenergy.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
+            "class": "devicon-react-plain",
             "name": "Angular"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-php-plain",
+            "name": "PHP"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
+        ]
+      },
+      {
+        "title": "Uzon Energy Android Application",
+        "startDate": "2019",
+        "description": "Internship project to develop an mobile application for Uzon Energy S.A.P.I. in the city of Salvatierra, Guanajuato. this application is used to manage lamp posts on the city of Salvatierra.",
+        "images": [
+          "https://i.imgur.com/Rpkckmu.png",
+          "https://i.imgur.com/qiagZ96.png"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.uzonenergy.uzonenergyreport",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+          
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
+        "company": "Uzon Energy S.A.P.I.",
+        "title": "Project Manager and Full-stack Developer",
         "years": "10.2019 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React", "Android"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML",
+          "CSS",
+          "MySQL",
+          "PHP",
+          "Firebase"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
+        "company": "Morpheus DSS",
+        "title": "Back-end Developer",
         "years": "01.2018 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+          "PHP"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
+          "REST API",
           "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "MySQL",
+          "HTML",
+          "CSS",
+          "Python"
         ]
       }
     ]
